@@ -1,0 +1,8 @@
+.wrap {
+  padding: 20px;
+  
+  .error,
+  .loading {
+    text-align: center;
+  }
+}
